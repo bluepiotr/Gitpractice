@@ -7,10 +7,13 @@ public class GitPractise {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Git Practise 1");
-		System.out.println("Hola");
-		System.out.println("this is for branch 1 only");
-		
+		System.out.println("practica Git");
+		System.out.println("1");
+		System.out.println("1");
+		System.out.println("1");
+		System.out.println("1");
+		System.out.println("1");
+		System.out.println("1");
 
 	}
-
 }
